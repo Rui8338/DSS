@@ -1,0 +1,10 @@
+*.*bak*
+*.lck
+~$*
+*.tmp
+*.xml
+out
+.vscode
+.idea/*
+!*.iml
+!modules.xml
